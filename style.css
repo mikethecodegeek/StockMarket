@@ -1,5 +1,13 @@
 .card {
     border: solid thin black;
-    width: 300px;
-    margin: 15px;
+    background-color: #494949;
+    color:white;
+}
+#tracked{
+
+}
+
+
+.blue {
+    color: blue;
 }
